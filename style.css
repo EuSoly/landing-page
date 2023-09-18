@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(114, 116, 119);
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+.cabecalho{
+background-color: rgb(135, 138, 141);
+text-align: center;
+border-radius: 20px;
+}
+.cabecalho a{
+display: inline-block;
+margin-left: 100px;
+}
+
+#sobre h3{
+text-align: center;
+margin-top:40px;
+}
+#sobre{
+background-color: rgb(135, 138, 141);
+border-radius: 20px;
+}
+#sobre p{
+  margin-left: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+max-width: 100%;
+max-height: 100%;
+display: grid;
+place-items: center;
+margin-top: 40px;
+}
+#contato{
+  background-color: rgb(135, 138, 141) ;
+  border-radius: 20px;
+  margin-top: 600px;
+}
+#contato h3{
+  text-align: center;
+}
+#contato p{
+  margin-left: 40px;
+}
